@@ -1,0 +1,15 @@
+$kind: http-request
+name: http://localhost:3005/products
+description: ""
+url: http://localhost:3005/products
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \    \"name\":\"Sagar kumar singh\",\r
+
+    \    \"email\":\"id967562@gmail.com\"\r
+
+    }"
+order: 1000
